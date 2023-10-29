@@ -263,7 +263,7 @@ $(document).ready(function() {
   	     Parallex-javascript
   	=============================================== */
 	
-	$('#testimonials').stellar();
+$('#testimonials').stellar();
 $('#slider-parallax').stellar();
 
 
